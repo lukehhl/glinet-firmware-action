@@ -7,6 +7,9 @@ feeds:
 packages:
   - luci-app-mwan3
 
+permissions:
+  contents: write
+
 
 
 diffconfig: |
